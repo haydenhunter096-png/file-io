@@ -1,4 +1,6 @@
 # file-io
+
+```
 Algorith: Read CSV file and repeat words
 1. Start program
 2. Create the file for an input stream
@@ -24,3 +26,4 @@ Algorith: Read CSV file and repeat words
 
 8. Close the file
 9. Ending the program
+```
