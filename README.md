@@ -6,6 +6,7 @@ Algorith: Read CSV file and repeat words
 4. In case the file does not open, a print error message along with the program stopping
 5. Create a string variable for holding each line
 6. With there being lines left in the file
+   ///
     a. Read a full line from the file
     b. Create a stringstream using the same line
     c. Then create a three string variable
@@ -19,5 +20,7 @@ Algorith: Read CSV file and repeat words
     h. Create a stringstream for converting the second number into a int
     i. Add two int together
     j. Use a loop for printing the word the required of times
-7. Close the file
-8. Ending the program
+
+///
+8. Close the file
+9. Ending the program
